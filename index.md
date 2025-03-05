@@ -8,3 +8,6 @@ I've added 3 headers this the index file
 var exVar = "Hello World!";
 console.log(exVar);
 ```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
